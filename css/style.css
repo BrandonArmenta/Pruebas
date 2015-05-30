@@ -1,0 +1,13 @@
+
+
+.cuadro {
+	height: 200px;
+	border: 1px solid #000;
+}
+
+.cuadro h2 {
+	font-size: 30px;
+	color: #f00;
+	text-align: center;
+	padding-top: 60px
+}
